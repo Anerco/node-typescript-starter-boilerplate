@@ -17,7 +17,9 @@
     "lint:list": "eslint */**/*.js --fix",
     "lint": "eslint */**/*.js --fix",
     "// ------ PRODUCTION ----- //": "",
-    "start:prod": "nodemon src/index.ts"
+    "start:prod": "nodemon src/index.ts",
+    "// ------ NPM ----- //": "",
+    "prepublish": "tsc"
   },
   "keywords": [],
   "author": "",
