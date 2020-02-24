@@ -20,7 +20,6 @@
     "strict": true,
     "strictNullChecks": true,
     "strictFunctionTypes": true,
-    // "strictBindCallApply": true,
     "lib": [
       "es6"
     ]
