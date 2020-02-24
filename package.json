@@ -1,6 +1,6 @@
 {
   "name": "node-ts-vscode",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -24,7 +24,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.20.0",
